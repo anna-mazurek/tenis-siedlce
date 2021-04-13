@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.top-contact {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.phone-number {
+    color: #cb9737;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding-left: 1rem;
+    padding-right: 2rem;
+    margin-top: 1rem;
+}
+
+.small-contact {
+    height: 20px;
+}
+
