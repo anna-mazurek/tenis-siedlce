@@ -2,3 +2,9 @@
     margin-top: 3%;
     font-family: 'Roboto', sans-serif;
 }
+
+@media only screen and (min-width: 1024px) {
+    .carousel {
+        margin-top: 0.5%;
+    }
+  }
