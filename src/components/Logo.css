@@ -1,12 +1,12 @@
 .main-logo {
-    height: 9rem;
-    width: auto;
+  height: 10rem;
+  width: auto;
 }
 
 @media only screen and (min-width: 1024px) {
-    .main-logo {
-        height: 14rem;
-        width: auto;
-        padding-bottom: 2%;
-    }  
+  .main-logo {
+    height: 15rem;
+    width: auto;
+    padding-bottom: 2%;
   }
+}

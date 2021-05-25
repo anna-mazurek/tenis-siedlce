@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #007663 !important;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.jumbo-header {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.jumbo-container {
+  padding-right: 35px;
+  padding-left: 35px;
+}
