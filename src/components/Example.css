@@ -1,18 +1,14 @@
 #example-collapse-text {
-    font-family: 'Roboto', sans-serif;
-    text-align: justify;
-    margin: 30px;
-    padding: 20px;
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+  margin: 30px;
+  padding: 20px;
 }
 
 @media only screen and (min-width: 1024px) {
-    #example-collapse-text {
-        margin: 30px;
-        padding: 20px;
-        max-width: 400px;
-    }
+  #example-collapse-text {
+    margin: 30px;
+    padding: 20px;
+    max-width: 600px;
   }
-
-
-
-
+}

@@ -105,7 +105,7 @@
     height: 100px;
   }
   .achievements {
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -116,5 +116,17 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: flex-start;
+  }
+  .contact-details p {
+    font-size: 20px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .map {
+    width: 450px;
+    height: 300px;
   }
 }
