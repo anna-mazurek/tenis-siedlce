@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tenis-siedlce/static/css/main.ae199d68.chunk.css",
-    "main.js": "/tenis-siedlce/static/js/main.147291da.chunk.js",
-    "main.js.map": "/tenis-siedlce/static/js/main.147291da.chunk.js.map",
+    "main.css": "/tenis-siedlce/static/css/main.6d3352a5.chunk.css",
+    "main.js": "/tenis-siedlce/static/js/main.45a13707.chunk.js",
+    "main.js.map": "/tenis-siedlce/static/js/main.45a13707.chunk.js.map",
     "runtime-main.js": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js",
     "runtime-main.js.map": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/tenis-siedlce/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c4f737af.chunk.js": "/tenis-siedlce/static/js/2.c4f737af.chunk.js",
-    "static/js/2.c4f737af.chunk.js.map": "/tenis-siedlce/static/js/2.c4f737af.chunk.js.map",
+    "static/js/2.73f4a70c.chunk.js": "/tenis-siedlce/static/js/2.73f4a70c.chunk.js",
+    "static/js/2.73f4a70c.chunk.js.map": "/tenis-siedlce/static/js/2.73f4a70c.chunk.js.map",
     "index.html": "/tenis-siedlce/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/tenis-siedlce/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.ae199d68.chunk.css.map": "/tenis-siedlce/static/css/main.ae199d68.chunk.css.map",
-    "static/js/2.c4f737af.chunk.js.LICENSE.txt": "/tenis-siedlce/static/js/2.c4f737af.chunk.js.LICENSE.txt"
+    "static/css/main.6d3352a5.chunk.css.map": "/tenis-siedlce/static/css/main.6d3352a5.chunk.css.map",
+    "static/js/2.73f4a70c.chunk.js.LICENSE.txt": "/tenis-siedlce/static/js/2.73f4a70c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2bb0d5aa.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c4f737af.chunk.js",
-    "static/css/main.ae199d68.chunk.css",
-    "static/js/main.147291da.chunk.js"
+    "static/js/2.73f4a70c.chunk.js",
+    "static/css/main.6d3352a5.chunk.css",
+    "static/js/main.45a13707.chunk.js"
   ]
 }
