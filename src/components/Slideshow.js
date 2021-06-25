@@ -12,7 +12,9 @@ function Slideshow() {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>Treningi tenisa w Siedlcach</h3>
+            <h3>
+              Siedlecka Edukacja Tenisowa - szkoła tenisa ziemnego w Siedlcach
+            </h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -23,7 +25,10 @@ function Slideshow() {
           />
 
           <Carousel.Caption>
-            <h3>Zajęcia indywidualne i grupowe</h3>
+            <h3>
+              Zajęcia indywidualne i grupowe od poziomu początkującego po poziom
+              zawodniczy
+            </h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -34,7 +39,7 @@ function Slideshow() {
           />
 
           <Carousel.Caption>
-            <h3>Wszystkie poziomy zaawansowania</h3>
+            <h3>Nauka gry w tenisa ziemnego dla osób dorosłych oraz dzieci</h3>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

@@ -1,9 +1,9 @@
 import Collapse from "react-bootstrap/Collapse";
 import Button from "react-bootstrap/Button";
 import React, { useState } from "react";
-import "./Example.css";
+import "./Achievements.css";
 
-const Example = (props) => {
+function Achievements() {
   const [open, setOpen] = useState(false);
 
   return (
@@ -18,14 +18,17 @@ const Example = (props) => {
       </Button>
       <Collapse in={open}>
         <div id="example-collapse-text">
-          {props.description}
-          {/* Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-          terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer
-          labore wes anderson cred nesciunt sapiente ea proident. */}
+          <div className="achievements-more">
+            Od 2011 roku, studiując na AWF w Warszawie zacząłem swoją przygodę z
+            pracą trenerską. Przez lata, pracując na kortach w Warszawie, Łodzi
+            oraz Siedlcach miałem okazje szkolić dorosłych, młodzież oraz dzieci
+            współpracując przy tym ze świetnymi trenerami zawodników WTA oraz
+            ITF.
+          </div>
         </div>
       </Collapse>
     </>
   );
-};
+}
 
-export default Example;
+export default Achievements;

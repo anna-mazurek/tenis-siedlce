@@ -27,7 +27,7 @@
 }
 
 .achievements {
-  margin: 30px;
+  margin: 10px;
   padding: 20px;
   color: #007663;
 }
@@ -110,6 +110,8 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
   }
   .treningi {
     display: flex;

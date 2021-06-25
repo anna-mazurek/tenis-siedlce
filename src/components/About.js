@@ -2,6 +2,7 @@ import React from "react";
 import Example from "./Example";
 import MainText from "./MainText";
 import Slideshow2 from "./Slideshow2";
+import Achievements from "./Achievements";
 import "./About.css";
 
 function About() {
@@ -40,7 +41,7 @@ function About() {
         </p>
       </section> */}
       <section id="o-mnie">
-      <MainText />
+        <MainText />
       </section>
       <section id="treningi">
         <h2 className="about-header">Treningi</h2>
@@ -56,7 +57,7 @@ function About() {
               <li>Zajęcia 1h/1,5h</li>
             </ul>
             <div className="moreinfo">
-              <Example />
+              <Example description="tekst nr 1" />
             </div>
           </div>
           <div>
@@ -72,7 +73,7 @@ function About() {
               <li>Zajęcia 1h/1,5h</li>
             </ul>
             <div className="moreinfo">
-              <Example />
+              <Example description="tekst nr 2" />
             </div>
           </div>
         </div>
@@ -87,10 +88,11 @@ function About() {
         <br />
         <p className="achievements">
           Od kilku lat lwią część mojej pracy zajmuje szkolenie młodych
-          zawodników będących ścisłą czołówką w Polsce a niekiedy na świecie.
+          zawodników będących ścisłą czołówką w Polsce a niekiedy na świecie
+          m.in. sdkfjnkfbhwhkbfw
           <br />
           <br />
-          <Example />
+          <Achievements />
         </p>
       </section>
       <section id="kontakt">
