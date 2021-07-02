@@ -8,38 +8,6 @@ import "./About.css";
 function About() {
   return (
     <div>
-      {/* <section id="o-mnie">
-        <h2 className="about-header">O mnie</h2>
-        <p className="about">
-          Cześć!
-          <br />
-          <br />
-          Nazywam się Wojtek Jobczyk i z tenisem związany jestem od 6 roku
-          życia. W ciągu 10 lat gry zawodniczej wielokrotnie z sukcesami
-          rywalizowałem w turniejach organizowanych przez Polski Związek
-          Tenisowy (turnieje wojewódzkie, ogólnopolskie, Mistrzostwa Polski)
-          reprezentując w tym czasie między innymi klub MKS Pogoń Siedlce.
-          <br />
-          <br />
-          <img
-            className="wojtek"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1618310214/thumbnail_image2_kg04sz.jpg"
-            alt="First slide"
-          />
-          <br />
-          Urodziłem się w 1992 roku i jestem licencjonowanym trenerem ITF oraz
-          PZT, w 2017 roku ukończyłem Produkcje Filmową i Telewizyjną w łódzkiej
-          Szkole Filmowej. Posiadam również uprawnienia wychowawcy wypoczynku. W
-          ciągu swojej pracy wielokrotnie uczestniczyłem w obozach i
-          półkoloniach tenisowych.
-          <br />
-          <br />
-          Od 2011 roku, studiując na AWF w Warszawie zacząłem swoją przygodę z
-          pracą trenerską. Przez lata, pracując na kortach w Warszawie, Łodzi
-          oraz Siedlcach miałem okazje szkolić dorosłych, młodzież oraz dzieci
-          współpracując przy tym ze świetnymi trenerami zawodników WTA oraz ITF.
-        </p>
-      </section> */}
       <section id="o-mnie">
         <MainText />
       </section>
@@ -88,8 +56,7 @@ function About() {
         <br />
         <p className="achievements">
           Od kilku lat lwią część mojej pracy zajmuje szkolenie młodych
-          zawodników będących ścisłą czołówką w Polsce a niekiedy na świecie
-          m.in. sdkfjnkfbhwhkbfw
+          zawodników będących ścisłą czołówką w Polsce a niekiedy na świecie.
           <br />
           <br />
           <Achievements />

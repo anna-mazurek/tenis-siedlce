@@ -14,3 +14,25 @@
   padding-right: 35px;
   padding-left: 35px;
 }
+
+@media only screen and (max-width: 1024px) {
+  .wojtek-foto {
+    height: 200px;
+    padding: 15px;
+  }  
+}
+
+
+@media only screen and (min-width: 1024px) {
+  .jumbo-container {
+    display: flex;
+    flex-direction: row;
+  }
+  p {
+    font-size: larger;
+  }
+  .wojtek-foto {
+    height: 320px;
+    padding: 25px;
+  }
+}

@@ -20,8 +20,8 @@ function Slideshow() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1621786831/wojtek1_zu6pes.jpg"
-            alt="Second slide"
+            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625254156/trening-tenisa-siedlce_dd8ldk.jpg"
+            alt="Treningi tenisa w Siedlcach"
           />
 
           <Carousel.Caption>
@@ -31,17 +31,17 @@ function Slideshow() {
             </h3>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        {/* <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1621786620/set_dwwt4h.jpg"
+            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625254533/thumbnail_IMG_9695_a5s1rh.jpg"
             alt="Third slide"
           />
 
           <Carousel.Caption>
             <h3>Nauka gry w tenisa ziemnego dla osób dorosłych oraz dzieci</h3>
           </Carousel.Caption>
-        </Carousel.Item>
+        </Carousel.Item> */}
       </Carousel>
     </div>
   );
