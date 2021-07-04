@@ -25,7 +25,14 @@ function About() {
               <li>Zajęcia 1h/1,5h</li>
             </ul>
             <div className="moreinfo">
-              <Example description="tekst nr 1" />
+              <Example description={<>Program treningowy ustalany jest indywidualnie dla każdego. Na pierwszych zajęciach ustalamy cele i intensywność treningów. Każdorazowo zależy mi na jak najszybszym wprowadzeniu osoby uczonej w „grę”, to znaczy wypracowaniu podstawowych umiejętności do utrzymania piłki w korcie i cieszenia się pięknem tenisa już od pierwszych zajęć. Najważniejsza jest dobra zabawa!
+              <br/>
+              <br/>
+              <b>Cena zajęć:</b>
+              <br/>
+              <br/>
+              - 100 zł/h - do negocjacji przy większej ilości zajęć
+              </>} />
             </div>
           </div>
           <div>
@@ -41,7 +48,33 @@ function About() {
               <li>Zajęcia 1h/1,5h</li>
             </ul>
             <div className="moreinfo">
-              <Example description="tekst nr 2" />
+              <Example description={<>Zajęcia grupowe dla dzieci/młodzieży/dorosłych odbywają się w grupach od 2 do 6 osób (w przypadku grup dzieci limit uczestników wynosi 8 osób).
+ <br/>
+ <br/>            
+<b>Ceny zajęć:</b>
+<br/>
+<br/>
+- 2 osoby - 70zł/h - 280zł za 4 zajęcia w miesiącu lub 100/1,5h - 400zł za 4 zajęcia w miesiącu
+<br/>
+- 3-4 osoby - 60zł/1h - 240 za 4 zajęcia w miesiącu lub 80/1,5h - 320zł za 4 spotkania w miesiącu
+<br/>
+- 5-6 osób (5-8 w przypadku dzieci) - 40zł/1h - 160zł za 4 zajęcia w miesiącu lub 60zł/1,5h - 240zł za 4 zajęcia w miesiącu
+<br/>
+<br/>
+Zajęcia dla dorosłych prowadzone są wg opracowanego przez Międzynarodową Federacje Tenisową (ITF) programu Tennis Xpress, którego idea pozwala początkującym graczom po ok 6 tygodniach (w cyklu półtoragodzinnym) przyswoić podstawy takich umiejętności jak:
+<br/>
+<br/>
+- podstawowe umiejętności techniczne w zakresie gry z głębi kortu, serwisu i woleja
+<br/>
+- czucie się pewnie grając piłką zieloną na punkty na pełnym korcie
+<br/>
+- znajomość podstawowych elementów taktyki
+<br/>
+- zapoznanie z przepisami gry
+<br/>
+<br/>
+Zajęcia dla dzieci odbywają się w oparciu o program Międzynarodowej Federacji Tenisowej (ITF) Tenis 10.
+Więcej informacji o programie <a href="https://tenis10.pl/1_328/o-programie-.aspx">TUTAJ</a></>} />
             </div>
           </div>
         </div>

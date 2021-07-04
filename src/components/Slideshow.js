@@ -8,19 +8,19 @@ function Slideshow() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1621786620/set_dwwt4h.jpg"
+            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625317615/set-tenis-siedlce_pmmlpf.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
             <h3>
-              Siedlecka Edukacja Tenisowa - szkoła tenisa ziemnego w Siedlcach
+              Siedlecka Edukacja Tenisowa W. Jobczyk - szkoła tenisa ziemnego w Siedlcach
             </h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625254156/trening-tenisa-siedlce_dd8ldk.jpg"
+            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625319234/IMG_0942_ehwgrb_lqd9mk.jpg"
             alt="Treningi tenisa w Siedlcach"
           />
 

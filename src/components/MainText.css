@@ -19,6 +19,10 @@
   .wojtek-foto {
     height: 200px;
     padding: 15px;
+  }
+  .jumbo-container {
+    text-align: left;
+    padding-top: 20px;
   }  
 }
 
@@ -27,6 +31,7 @@
   .jumbo-container {
     display: flex;
     flex-direction: row;
+    padding-top: 20px;
   }
   p {
     font-size: larger;
