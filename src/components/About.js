@@ -26,7 +26,13 @@ function About() {
             </ul>
             <div className="moreinfo">
               <Example description={<>
-              Program treningowy ustalany jest indywidualnie dla każdego. Na pierwszych zajęciach ustalamy cele i intensywność treningów. Każdorazowo zależy mi na jak najszybszym wprowadzeniu osoby uczonej w „grę”, to znaczy wypracowaniu podstawowych umiejętności do utrzymania piłki w korcie i cieszenia się pięknem tenisa już od pierwszych zajęć. Najważniejsza jest dobra zabawa!
+              Program treningowy ustalany jest indywidualnie dla każdego. Na pierwszych zajęciach ustalamy cele i intensywność treningów. 
+              <br/>
+              <br/>
+              Każdorazowo zależy mi na jak najszybszym wprowadzeniu osoby uczonej w „grę”, to znaczy wypracowaniu podstawowych umiejętności do utrzymania piłki w korcie i cieszenia się pięknem tenisa już od pierwszych zajęć. 
+              <br/>
+              <br/>
+              Najważniejsza jest dobra zabawa!
               <br/>
               <br/>
               <b>Cena zajęć:</b>
