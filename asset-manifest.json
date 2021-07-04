@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tenis-siedlce/static/css/main.f179e090.chunk.css",
-    "main.js": "/tenis-siedlce/static/js/main.485962e6.chunk.js",
-    "main.js.map": "/tenis-siedlce/static/js/main.485962e6.chunk.js.map",
+    "main.js": "/tenis-siedlce/static/js/main.4a2a885b.chunk.js",
+    "main.js.map": "/tenis-siedlce/static/js/main.4a2a885b.chunk.js.map",
     "runtime-main.js": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js",
     "runtime-main.js.map": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/tenis-siedlce/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6369ad31.chunk.js",
     "static/css/main.f179e090.chunk.css",
-    "static/js/main.485962e6.chunk.js"
+    "static/js/main.4a2a885b.chunk.js"
   ]
 }
