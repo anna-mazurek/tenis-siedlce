@@ -25,7 +25,8 @@ function About() {
               <li>Zajęcia 1h/1,5h</li>
             </ul>
             <div className="moreinfo">
-              <Example description={<>Program treningowy ustalany jest indywidualnie dla każdego. Na pierwszych zajęciach ustalamy cele i intensywność treningów. Każdorazowo zależy mi na jak najszybszym wprowadzeniu osoby uczonej w „grę”, to znaczy wypracowaniu podstawowych umiejętności do utrzymania piłki w korcie i cieszenia się pięknem tenisa już od pierwszych zajęć. Najważniejsza jest dobra zabawa!
+              <Example description={<>
+              Program treningowy ustalany jest indywidualnie dla każdego. Na pierwszych zajęciach ustalamy cele i intensywność treningów. Każdorazowo zależy mi na jak najszybszym wprowadzeniu osoby uczonej w „grę”, to znaczy wypracowaniu podstawowych umiejętności do utrzymania piłki w korcie i cieszenia się pięknem tenisa już od pierwszych zajęć. Najważniejsza jest dobra zabawa!
               <br/>
               <br/>
               <b>Cena zajęć:</b>
