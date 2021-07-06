@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tenis-siedlce/static/css/main.f179e090.chunk.css",
-    "main.js": "/tenis-siedlce/static/js/main.d361bb53.chunk.js",
-    "main.js.map": "/tenis-siedlce/static/js/main.d361bb53.chunk.js.map",
+    "main.css": "/tenis-siedlce/static/css/main.7fe781c2.chunk.css",
+    "main.js": "/tenis-siedlce/static/js/main.71ae4629.chunk.js",
+    "main.js.map": "/tenis-siedlce/static/js/main.71ae4629.chunk.js.map",
     "runtime-main.js": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js",
     "runtime-main.js.map": "/tenis-siedlce/static/js/runtime-main.2bb0d5aa.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/tenis-siedlce/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.6369ad31.chunk.js.map": "/tenis-siedlce/static/js/2.6369ad31.chunk.js.map",
     "index.html": "/tenis-siedlce/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/tenis-siedlce/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f179e090.chunk.css.map": "/tenis-siedlce/static/css/main.f179e090.chunk.css.map",
+    "static/css/main.7fe781c2.chunk.css.map": "/tenis-siedlce/static/css/main.7fe781c2.chunk.css.map",
     "static/js/2.6369ad31.chunk.js.LICENSE.txt": "/tenis-siedlce/static/js/2.6369ad31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2bb0d5aa.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6369ad31.chunk.js",
-    "static/css/main.f179e090.chunk.css",
-    "static/js/main.d361bb53.chunk.js"
+    "static/css/main.7fe781c2.chunk.css",
+    "static/js/main.71ae4629.chunk.js"
   ]
 }
