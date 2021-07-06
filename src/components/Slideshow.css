@@ -3,6 +3,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.carousel-caption > h3 {
+    background:rgba(122, 120, 120, 0.4);
+}
+
 @media only screen and (max-width: 1024px) {
     .carousel-caption > h3 {
         font-size: 20px;

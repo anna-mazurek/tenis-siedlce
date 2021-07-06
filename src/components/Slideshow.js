@@ -20,7 +20,7 @@ function Slideshow() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625319234/IMG_0942_ehwgrb_lqd9mk.jpg"
+            src="https://res.cloudinary.com/dnk61xxgl/image/upload/v1625590156/20210529-0R1A1154_qi73re.jpg"
             alt="Treningi tenisa w Siedlcach"
           />
 
